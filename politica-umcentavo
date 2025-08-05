@@ -1,0 +1,57 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Política de Privacidade – Um Centavo</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 2rem;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        h1, h2 {
+            color: #0b5394;
+        }
+        section {
+            margin-bottom: 2rem;
+        }
+    </style>
+</head>
+<body>
+    <h1>Política de Privacidade – Um Centavo</h1>
+    <p><strong>Última atualização:</strong> [insira a data]</p>
+
+    <section>
+        <h2>📌 Coleta de Dados</h2>
+        <p>O aplicativo <strong>Um Centavo</strong> <strong>não coleta, armazena, processa ou compartilha dados pessoais</strong>. Nenhuma informação identificável é solicitada ou registrada durante o uso do app.</p>
+    </section>
+
+    <section>
+        <h2>📌 Compartilhamento de Dados com Terceiros</h2>
+        <p>O aplicativo <strong>não compartilha informações com terceiros</strong>. Todo o conteúdo é local e não depende de conexões com servidores externos.</p>
+    </section>
+
+    <section>
+        <h2>📌 Direitos do Usuário</h2>
+        <p>Como o aplicativo não coleta dados, <strong>nenhuma ação de correção, exclusão ou portabilidade de dados é necessária</strong>. O uso é totalmente anônimo.</p>
+    </section>
+
+    <section>
+        <h2>📌 Segurança</h2>
+        <p>Nos preocupamos com a segurança e simplicidade da experiência do usuário. O aplicativo é executado localmente em seu dispositivo e <strong>não transmite informações pela internet</strong>.</p>
+    </section>
+
+    <section>
+        <h2>📌 Alterações a esta Política de Privacidade</h2>
+        <p>Podemos atualizar esta política periodicamente. Qualquer mudança será refletida nesta página, com a data da última modificação.</p>
+    </section>
+
+    <section>
+        <h2>📌 Contato</h2>
+        <p>Se você tiver dúvidas sobre esta política, entre em contato pelo e-mail: <em>[seu-email-aqui]</em></p>
+    </section>
+</body>
+</html>
